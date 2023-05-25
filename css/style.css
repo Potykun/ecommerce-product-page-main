@@ -429,6 +429,10 @@ h6 {
           column-gap: 6.25rem;
 }
 
+.shop .swiper-button-prev {
+  left: 5%;
+}
+
 .shop .swiper-button-prev span {
   -webkit-transform: rotate(135deg);
       -ms-transform: rotate(135deg);
@@ -936,7 +940,6 @@ h6 {
   .shop .swiper-button-next {
     position: absolute;
     top: 50%;
-    left: 5%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
